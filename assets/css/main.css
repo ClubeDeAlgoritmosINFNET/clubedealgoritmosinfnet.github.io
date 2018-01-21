@@ -3866,8 +3866,7 @@
 					}
 
 						#sidebar nav a:after {
-							background-image: none;
-							background-color: #b74e91;
+							background-image: linear-gradient(to right, #34b78d, #ffffff);
 						}
 
 		}
